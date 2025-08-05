@@ -35,11 +35,11 @@ This project uses **n8n workflows** to automate the end-to-end pipeline of:
 
 ### 🔹 Load Resume to Pinecone Workflow
 
-![Load Resume Workflow](./1.png)
+![Load Resume Workflow](./2.png)
 
 ### 🔹 AI-Powered Resume Matcher Workflow
 
-![Matcher Workflow](./2.png)
+![Matcher Workflow](./1.png)
 
 ---
 
