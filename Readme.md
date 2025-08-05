@@ -43,8 +43,6 @@ This project uses **n8n workflows** to automate the end-to-end pipeline of:
 
 ---
 
-2
-
 ## 🔄 Workflows
 
 ### ✅ Load Resume to Pinecone
